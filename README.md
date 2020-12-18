@@ -19,7 +19,7 @@ components inside. You can run the examples in node /design-pattern/dist/index.j
 - [x] Adapter
 - [x] Bridge
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] Flyweight
 - [ ] Proxy
