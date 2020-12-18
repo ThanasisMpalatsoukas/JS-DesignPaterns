@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var Bake_1 = require("./Bake");
+var Cook_1 = require("./Cook");
+var Pizza_1 = require("./Pizza");
+var Soup_1 = require("./Soup");
+var pizza = new Pizza_1["default"]();
+pizza.prepareFood(new Bake_1["default"]());
+var soup = new Soup_1["default"]();
+soup.prepareFood(new Cook_1["default"]());
