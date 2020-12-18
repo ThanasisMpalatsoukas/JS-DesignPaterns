@@ -12,7 +12,7 @@ components inside. You can run the examples in node /design-pattern/dist/index.j
 - [x] builder
 - [x] factoryMethod
 - [ ] prototype
-- [ ] singleton 
+- [x] singleton 
 
 #### Structural
 
