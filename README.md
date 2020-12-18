@@ -16,7 +16,7 @@ components inside. You can run the examples in node /design-pattern/dist/index.j
 
 #### Structural
 
-- [ ] Adapter
+- [x] Adapter
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
