@@ -10,7 +10,7 @@ components inside. You can run the examples in node /design-pattern/dist/index.j
 
 - [x] abstractFactory
 - [x] builder
-- [ ] factoryMethod
+- [x] factoryMethod
 - [ ] prototype
 - [ ] singleton 
 
