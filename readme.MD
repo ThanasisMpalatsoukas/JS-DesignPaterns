@@ -9,31 +9,31 @@ components inside. You can run the examples in node /design-pattern/dist/index.j
 #### Creational
 
 - [x] abstractFactory
-- [] builder
-- [] factoryMethod
-- [] prototype
-- [] singleton 
+- [ ] builder
+- [ ] factoryMethod
+- [ ] prototype
+- [ ] singleton 
 
 #### Structural
 
-- [] Adapter
-- [] Bridge
-- [] Composite
-- [] Decorator
-- [] Facade
-- [] Flyweight
-- [] Proxy
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
 
 #### Behavioral
 
-- [] Chain Of Responsibility
-- [] Command
-- [] Interpreter
-- [] Iterator
-- [] Mediator
-- [] Memento
-- [] Observer
-- [] State
-- [] Strategy
-- [] Template method
-- [] Visitor
+- [ ] Chain Of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template method
+- [ ] Visitor
