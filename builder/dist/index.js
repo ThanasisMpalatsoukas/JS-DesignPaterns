@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var Chef_1 = require("./Chef");
+var GreekPizzaBuilder_1 = require("./GreekPizzaBuilder");
+var ItalianPizzaBuilder_1 = require("./ItalianPizzaBuilder");
+var chef = new Chef_1["default"]("Akis", "Petratzikis");
+chef.addPizzaToOrders(new GreekPizzaBuilder_1["default"]());
+chef.addPizzaToOrders(new ItalianPizzaBuilder_1["default"]());
+chef.addPizzaToOrders(new GreekPizzaBuilder_1["default"]());
+chef.addPizzaToOrders(new ItalianPizzaBuilder_1["default"]());
+chef.describeOrder();

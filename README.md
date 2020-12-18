@@ -9,7 +9,7 @@ components inside. You can run the examples in node /design-pattern/dist/index.j
 #### Creational
 
 - [x] abstractFactory
-- [ ] builder
+- [x] builder
 - [ ] factoryMethod
 - [ ] prototype
 - [ ] singleton 
