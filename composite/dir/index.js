@@ -1,0 +1,15 @@
+"use strict";
+exports.__esModule = true;
+var Meat_1 = require("./Meat");
+var Recipe_1 = require("./Recipe");
+var Vegetable_1 = require("./Vegetable");
+var pork = new Meat_1["default"](0, "pork");
+var lettuce = new Vegetable_1["default"](1, "lettuce");
+var porkNLettuceRecipe = new Recipe_1["default"](2, "Pork and lettuce");
+porkNLettuceRecipe.add(pork);
+porkNLettuceRecipe.add(lettuce);
+porkNLettuceRecipe.cook();
+var echancedRecipe = new Recipe_1["default"](3, "Pork, lettuce and chicken");
+echancedRecipe.add(porkNLettuceRecipe);
+echancedRecipe.add(new Meat_1["default"](4, "Chicken"));
+echancedRecipe.cook();
